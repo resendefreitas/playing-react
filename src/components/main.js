@@ -1,5 +1,3 @@
-'use strict';
-
 var TestAppApp = require('./TestAppApp');
 var React = require('react');
 var Router = require('react-router');
